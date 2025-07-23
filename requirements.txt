@@ -1,1 +1,6 @@
 streamlit
+duckdb
+pandas
+rapidfuzz
+openpyxl
+xlsxwriter
